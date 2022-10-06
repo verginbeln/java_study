@@ -26,7 +26,7 @@
 >
 > markdown
 
-## 分割线
+## 分割线      
 
 ---
 
@@ -74,12 +74,12 @@ ___
  ## 代码
 
 ```java
-hello,world
+hello,w orld
 ```
 
 ` hello `
 
-## 说明
+## 说明   
 
 HTML[^1]   
 
